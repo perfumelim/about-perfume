@@ -6,7 +6,6 @@ const Main = () => {
   return (
     <div className="showcase">
       <h1>All about me</h1>
-      <img src="./stamp.JPG"></img>
     </div>
   );
 };
