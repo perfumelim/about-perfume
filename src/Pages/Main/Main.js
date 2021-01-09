@@ -5,9 +5,8 @@ import "./Main.scss";
 const Main = () => {
   return (
     <div className="showcase">
-      <h1>All about me</h1>
-      <img src="./stamp.JPG" />
-      <p>What's going on?</p>
+      <h1>DEVSISTERS</h1>
+      <p>CREATING THE BEST PLAYER EXPERIENCES</p>
     </div>
   );
 };
