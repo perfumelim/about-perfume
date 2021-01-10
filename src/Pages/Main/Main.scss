@@ -1,2 +1,24 @@
 .showcase {
+  font-family: "Bangers", cursive;
+
+  .introduce {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding-top: 50px;
+
+    span {
+      font-size: 80px;
+    }
+    p {
+      font-size: 60px;
+    }
+  }
+
+  .iconZone {
+    display: flex;
+    justify-content: space-around;
+    width: 90px;
+    padding-top: 20px;
+  }
 }
